@@ -2,7 +2,7 @@
 
 I'm not good at English. There may be parts that are difficult to understand. In that case, please feel free to ask me questions.
 
-# Twitter-Bot Full Ver.
+# Twitter-Bot Free Ver.
 
 By uploading this folder to Heroku, you can automatically tweets and like tweets.
 
